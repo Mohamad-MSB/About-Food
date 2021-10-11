@@ -2,4 +2,4 @@
 
 Creating JS project and bundling with parcel
 
-Online version, [click Here...](https://mohamad-msb.github/About-Food/.)
+Online version, [click Here...](https://mohamad-msb.github.io/About-Food/.)
